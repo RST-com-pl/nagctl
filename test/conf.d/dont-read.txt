@@ -1,0 +1,9 @@
+define host {
+	host_name	imposter
+	hostgroups	everything
+}
+
+define service {
+	service_description	fake
+	hostgroup_name  everything
+}
