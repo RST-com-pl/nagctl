@@ -10,3 +10,6 @@ After moving to present workplace same problem arose. A lot of clicks were neede
 I asked Lesław about license of his tool and was delighted to hear it was developed under GPL3. 
 Lesław, for his own reasons, didn't want to publish it on github but had nothing against us to do so. 
 
+
+Thanks for sharing Lesław! :)
+
